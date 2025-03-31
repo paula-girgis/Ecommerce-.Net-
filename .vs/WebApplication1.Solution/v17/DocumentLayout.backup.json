@@ -3,12 +3,19 @@
   "WorkspaceRootPath": "D:\\WebApplication1.Solution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5265C3C2-22EF-451C-BC3F-B5B20A348680}|WebApplication1\\WebApplication1.Api.csproj|d:\\webapplication1.solution\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5265C3C2-22EF-451C-BC3F-B5B20A348680}|WebApplication1\\WebApplication1.Api.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{8C87EBAB-A099-4C7C-8D09-DF027CB9B71D}|WebApplication1.Service\\WebApplication1.Service.csproj|d:\\webapplication1.solution\\webapplication1.service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C87EBAB-A099-4C7C-8D09-DF027CB9B71D}|WebApplication1.Service\\WebApplication1.Service.csproj|solutionrelative:webapplication1.service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\paula girgis\\OneDrive\\Desktop\\PlantCare02-main\\PlantCare02-main\\WebApplication1.Solution\\WebApplication1.Service\\EmailService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5265C3C2-22EF-451C-BC3F-B5B20A348680}|WebApplication1\\WebApplication1.Api.csproj|d:\\webapplication1.solution\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5265C3C2-22EF-451C-BC3F-B5B20A348680}|WebApplication1\\WebApplication1.Api.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5265C3C2-22EF-451C-BC3F-B5B20A348680}|WebApplication1\\WebApplication1.Api.csproj|d:\\webapplication1.solution\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5265C3C2-22EF-451C-BC3F-B5B20A348680}|WebApplication1\\WebApplication1.Api.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5265C3C2-22EF-451C-BC3F-B5B20A348680}|WebApplication1\\WebApplication1.Api.csproj|d:\\webapplication1.solution\\webapplication1\\errors\\apiexceptionresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,10 +32,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C3A96242-1C1A-4B8C-BB97-FD8B7F38C639}|WebApplication1.Repositry\\WebApplication1.Repositry.csproj|d:\\webapplication1.solution\\webapplication1.repositry\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3A96242-1C1A-4B8C-BB97-FD8B7F38C639}|WebApplication1.Repositry\\WebApplication1.Repositry.csproj|solutionrelative:webapplication1.repositry\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C87EBAB-A099-4C7C-8D09-DF027CB9B71D}|WebApplication1.Service\\WebApplication1.Service.csproj|d:\\webapplication1.solution\\webapplication1.service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C87EBAB-A099-4C7C-8D09-DF027CB9B71D}|WebApplication1.Service\\WebApplication1.Service.csproj|solutionrelative:webapplication1.service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5265C3C2-22EF-451C-BC3F-B5B20A348680}|WebApplication1\\WebApplication1.Api.csproj|d:\\webapplication1.solution\\webapplication1\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -90,28 +93,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ApiExceptionResponse.cs",
-              "DocumentMoniker": "D:\\WebApplication1.Solution\\WebApplication1\\Errors\\ApiExceptionResponse.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Errors\\ApiExceptionResponse.cs",
-              "ToolTip": "D:\\WebApplication1.Solution\\WebApplication1\\Errors\\ApiExceptionResponse.cs",
-              "RelativeToolTip": "WebApplication1\\Errors\\ApiExceptionResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T20:40:45.163Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "EmailService.cs",
-              "DocumentMoniker": "D:\\WebApplication1.Solution\\WebApplication1.Service\\EmailService.cs",
-              "RelativeDocumentMoniker": "WebApplication1.Service\\EmailService.cs",
-              "ToolTip": "D:\\WebApplication1.Solution\\WebApplication1.Service\\EmailService.cs",
-              "RelativeToolTip": "WebApplication1.Service\\EmailService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAABIAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\paula girgis\\OneDrive\\Desktop\\PlantCare02-main\\PlantCare02-main\\WebApplication1.Solution\\WebApplication1.Service\\EmailService.cs",
+              "ToolTip": "C:\\Users\\paula girgis\\OneDrive\\Desktop\\PlantCare02-main\\PlantCare02-main\\WebApplication1.Solution\\WebApplication1.Service\\EmailService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACMAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T20:37:02.394Z",
+              "WhenOpened": "2025-03-24T21:01:01.491Z",
               "EditorCaption": ""
             },
             {
@@ -140,20 +128,45 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApiExceptionResponse.cs",
+              "DocumentMoniker": "D:\\WebApplication1.Solution\\WebApplication1\\Errors\\ApiExceptionResponse.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Errors\\ApiExceptionResponse.cs",
+              "ToolTip": "D:\\WebApplication1.Solution\\WebApplication1\\Errors\\ApiExceptionResponse.cs",
+              "RelativeToolTip": "WebApplication1\\Errors\\ApiExceptionResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T20:40:45.163Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "D:\\WebApplication1.Solution\\WebApplication1.Service\\EmailService.cs",
+              "RelativeDocumentMoniker": "WebApplication1.Service\\EmailService.cs",
+              "ToolTip": "D:\\WebApplication1.Solution\\WebApplication1.Service\\EmailService.cs",
+              "RelativeToolTip": "WebApplication1.Service\\EmailService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T20:37:02.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\WebApplication1.Solution\\WebApplication1\\appsettings.json",
               "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
               "ToolTip": "D:\\WebApplication1.Solution\\WebApplication1\\appsettings.json",
               "RelativeToolTip": "WebApplication1\\appsettings.json",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-03-23T20:07:39.214Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "TokenAuthenticationMiddleware.cs",
               "DocumentMoniker": "D:\\WebApplication1.Solution\\WebApplication1\\Middlewares\\TokenAuthenticationMiddleware.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Middlewares\\TokenAuthenticationMiddleware.cs",
@@ -161,12 +174,11 @@
               "RelativeToolTip": "WebApplication1\\Middlewares\\TokenAuthenticationMiddleware.cs",
               "ViewState": "AgIAACAAAAAAAAAAAAAswB4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T16:43:48.896Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-22T16:43:48.896Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "AddCartItemDto.cs",
               "DocumentMoniker": "D:\\WebApplication1.Solution\\WebApplication1\\DTOs\\AddCartItemDto.cs",
               "RelativeDocumentMoniker": "WebApplication1\\DTOs\\AddCartItemDto.cs",
@@ -178,7 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "20250321215356_null.cs",
               "DocumentMoniker": "D:\\WebApplication1.Solution\\WebApplication1.Repositry\\Data\\Migrations\\20250321215356_null.cs",
               "RelativeDocumentMoniker": "WebApplication1.Repositry\\Data\\Migrations\\20250321215356_null.cs",
@@ -190,7 +202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "CartItemDto.cs",
               "DocumentMoniker": "D:\\WebApplication1.Solution\\WebApplication1\\DTOs\\CartItemDto.cs",
               "RelativeDocumentMoniker": "WebApplication1\\DTOs\\CartItemDto.cs",
@@ -202,7 +214,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "getCartDto.cs",
               "DocumentMoniker": "D:\\WebApplication1.Solution\\WebApplication1\\DTOs\\getCartDto.cs",
               "RelativeDocumentMoniker": "WebApplication1\\DTOs\\getCartDto.cs",
@@ -214,7 +226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "UserConfigurations.cs",
               "DocumentMoniker": "D:\\WebApplication1.Solution\\WebApplication1.Repositry\\Data\\Configurations\\UserConfigurations.cs",
               "RelativeDocumentMoniker": "WebApplication1.Repositry\\Data\\Configurations\\UserConfigurations.cs",
@@ -226,7 +238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Cart.cs",
               "DocumentMoniker": "D:\\WebApplication1.Solution\\WebApplication1.Core\\Entities\\Cart.cs",
               "RelativeDocumentMoniker": "WebApplication1.Core\\Entities\\Cart.cs",
@@ -238,7 +250,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "CartController.cs",
               "DocumentMoniker": "D:\\WebApplication1.Solution\\WebApplication1\\Controllers\\CartController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\CartController.cs",
@@ -250,7 +262,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "ProductTranslationsController.cs",
               "DocumentMoniker": "D:\\WebApplication1.Solution\\WebApplication1\\Controllers\\ProductTranslationsController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\ProductTranslationsController.cs",
@@ -262,7 +274,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "UserController.cs",
               "DocumentMoniker": "D:\\WebApplication1.Solution\\WebApplication1\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\UserController.cs",
@@ -274,20 +286,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\WebApplication1.Solution\\WebApplication1\\Program.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
               "ToolTip": "D:\\WebApplication1.Solution\\WebApplication1\\Program.cs",
               "RelativeToolTip": "WebApplication1\\Program.cs",
-              "ViewState": "AgIAAIUAAAAAAAAAAAAQwDQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAQwDQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-17T23:31:40.048Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "D:\\WebApplication1.Solution\\WebApplication1.Repositry\\Repositories\\ProductRepository.cs",
               "RelativeDocumentMoniker": "WebApplication1.Repositry\\Repositories\\ProductRepository.cs",
@@ -295,12 +307,11 @@
               "RelativeToolTip": "WebApplication1.Repositry\\Repositories\\ProductRepository.cs",
               "ViewState": "AgIAAAQAAAAAmZmZmRkfwB8AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T23:25:48.132Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T23:25:48.132Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "D:\\WebApplication1.Solution\\WebApplication1.Core\\Repositries\\IProductRepository.cs",
               "RelativeDocumentMoniker": "WebApplication1.Core\\Repositries\\IProductRepository.cs",
@@ -312,7 +323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "GenericRepository.cs",
               "DocumentMoniker": "D:\\WebApplication1.Solution\\WebApplication1.Repositry\\Repositories\\GenericRepository.cs",
               "RelativeDocumentMoniker": "WebApplication1.Repositry\\Repositories\\GenericRepository.cs",
@@ -320,12 +331,11 @@
               "RelativeToolTip": "WebApplication1.Repositry\\Repositories\\GenericRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T22:55:21.857Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T22:55:21.857Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ProductController.cs",
               "DocumentMoniker": "D:\\WebApplication1.Solution\\WebApplication1\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\ProductController.cs",
@@ -337,7 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "EcommerceContext.cs",
               "DocumentMoniker": "D:\\WebApplication1.Solution\\WebApplication1.Repositry\\Data\\EcommerceContext.cs",
               "RelativeDocumentMoniker": "WebApplication1.Repositry\\Data\\EcommerceContext.cs",

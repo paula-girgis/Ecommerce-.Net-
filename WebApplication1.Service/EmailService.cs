@@ -33,7 +33,7 @@ namespace WebApplication1.Service
 
                 var MailMessage = new MailMessage()
                 {
-                    From = new MailAddress($"PlantCare <{EMAIL_USER}>"),
+                    From = new MailAddress("PlantCare <plantcare.hti@gmail.com>"),
                     Subject = subject,
                     Body = body,
                     IsBodyHtml = true,

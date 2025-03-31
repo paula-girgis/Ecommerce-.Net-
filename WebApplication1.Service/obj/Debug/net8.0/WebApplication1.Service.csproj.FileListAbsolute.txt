@@ -82,3 +82,21 @@ C:\Users\paula girgis\OneDrive\Desktop\PlantCare02-main\PlantCare02-main\WebAppl
 C:\Users\paula girgis\OneDrive\Desktop\PlantCare02-main\PlantCare02-main\WebApplication1.Solution\WebApplication1.Service\obj\Debug\net8.0\refint\WebApplication1.Service.dll
 C:\Users\paula girgis\OneDrive\Desktop\PlantCare02-main\PlantCare02-main\WebApplication1.Solution\WebApplication1.Service\obj\Debug\net8.0\WebApplication1.Service.pdb
 C:\Users\paula girgis\OneDrive\Desktop\PlantCare02-main\PlantCare02-main\WebApplication1.Solution\WebApplication1.Service\obj\Debug\net8.0\ref\WebApplication1.Service.dll
+D:\WebApplication1.Solution\WebApplication1.Service\obj\Debug\net8.0\WebApplication1.Service.csproj.AssemblyReference.cache
+D:\WebApplication1.Solution\WebApplication1.Service\obj\Debug\net8.0\WebApplication1.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebApplication1.Solution\WebApplication1.Service\obj\Debug\net8.0\WebApplication1.Service.AssemblyInfoInputs.cache
+D:\WebApplication1.Solution\WebApplication1.Service\obj\Debug\net8.0\WebApplication1.Service.AssemblyInfo.cs
+D:\WebApplication1.Solution\WebApplication1.Service\obj\Debug\net8.0\WebApplication1.Service.csproj.CoreCompileInputs.cache
+D:\WebApplication1.Solution\WebApplication1.Service\obj\Debug\net8.0\WebApplication1.Service.sourcelink.json
+D:\WebApplication1.Solution\WebApplication1.Service\obj\Debug\net8.0\WebApplication1.Service.dll
+D:\WebApplication1.Solution\WebApplication1.Service\obj\Debug\net8.0\refint\WebApplication1.Service.dll
+D:\WebApplication1.Solution\WebApplication1.Service\obj\Debug\net8.0\WebApplication1.Service.pdb
+D:\WebApplication1.Solution\WebApplication1.Service\bin\Debug\net8.0\WebApplication1.Service.deps.json
+D:\WebApplication1.Solution\WebApplication1.Service\bin\Debug\net8.0\WebApplication1.Service.dll
+D:\WebApplication1.Solution\WebApplication1.Service\bin\Debug\net8.0\WebApplication1.Service.pdb
+D:\WebApplication1.Solution\WebApplication1.Service\bin\Debug\net8.0\WebApplication1.Core.dll
+D:\WebApplication1.Solution\WebApplication1.Service\bin\Debug\net8.0\WebApplication1.Repositry.dll
+D:\WebApplication1.Solution\WebApplication1.Service\bin\Debug\net8.0\WebApplication1.Core.pdb
+D:\WebApplication1.Solution\WebApplication1.Service\bin\Debug\net8.0\WebApplication1.Repositry.pdb
+D:\WebApplication1.Solution\WebApplication1.Service\obj\Debug\net8.0\WebAppli.04DA624C.Up2Date
+D:\WebApplication1.Solution\WebApplication1.Service\obj\Debug\net8.0\ref\WebApplication1.Service.dll

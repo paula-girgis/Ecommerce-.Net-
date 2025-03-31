@@ -88,3 +88,19 @@ C:\Users\paula girgis\OneDrive\Desktop\PlantCare02-main\PlantCare02-main\WebAppl
 C:\Users\paula girgis\OneDrive\Desktop\PlantCare02-main\PlantCare02-main\WebApplication1.Solution\WebApplication1.Repositry\obj\Debug\net8.0\refint\WebApplication1.Repositry.dll
 C:\Users\paula girgis\OneDrive\Desktop\PlantCare02-main\PlantCare02-main\WebApplication1.Solution\WebApplication1.Repositry\obj\Debug\net8.0\WebApplication1.Repositry.pdb
 C:\Users\paula girgis\OneDrive\Desktop\PlantCare02-main\PlantCare02-main\WebApplication1.Solution\WebApplication1.Repositry\obj\Debug\net8.0\ref\WebApplication1.Repositry.dll
+D:\WebApplication1.Solution\WebApplication1.Repositry\bin\Debug\net8.0\WebApplication1.Repositry.deps.json
+D:\WebApplication1.Solution\WebApplication1.Repositry\bin\Debug\net8.0\WebApplication1.Repositry.dll
+D:\WebApplication1.Solution\WebApplication1.Repositry\bin\Debug\net8.0\WebApplication1.Repositry.pdb
+D:\WebApplication1.Solution\WebApplication1.Repositry\bin\Debug\net8.0\WebApplication1.Core.dll
+D:\WebApplication1.Solution\WebApplication1.Repositry\bin\Debug\net8.0\WebApplication1.Core.pdb
+D:\WebApplication1.Solution\WebApplication1.Repositry\obj\Debug\net8.0\WebApplication1.Repositry.csproj.AssemblyReference.cache
+D:\WebApplication1.Solution\WebApplication1.Repositry\obj\Debug\net8.0\WebApplication1.Repositry.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebApplication1.Solution\WebApplication1.Repositry\obj\Debug\net8.0\WebApplication1.Repositry.AssemblyInfoInputs.cache
+D:\WebApplication1.Solution\WebApplication1.Repositry\obj\Debug\net8.0\WebApplication1.Repositry.AssemblyInfo.cs
+D:\WebApplication1.Solution\WebApplication1.Repositry\obj\Debug\net8.0\WebApplication1.Repositry.csproj.CoreCompileInputs.cache
+D:\WebApplication1.Solution\WebApplication1.Repositry\obj\Debug\net8.0\WebApplication1.Repositry.sourcelink.json
+D:\WebApplication1.Solution\WebApplication1.Repositry\obj\Debug\net8.0\WebAppli.EDC95323.Up2Date
+D:\WebApplication1.Solution\WebApplication1.Repositry\obj\Debug\net8.0\WebApplication1.Repositry.dll
+D:\WebApplication1.Solution\WebApplication1.Repositry\obj\Debug\net8.0\refint\WebApplication1.Repositry.dll
+D:\WebApplication1.Solution\WebApplication1.Repositry\obj\Debug\net8.0\WebApplication1.Repositry.pdb
+D:\WebApplication1.Solution\WebApplication1.Repositry\obj\Debug\net8.0\ref\WebApplication1.Repositry.dll

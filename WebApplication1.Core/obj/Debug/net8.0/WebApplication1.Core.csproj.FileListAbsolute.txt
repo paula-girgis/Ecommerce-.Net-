@@ -67,3 +67,16 @@ C:\Users\paula girgis\OneDrive\Desktop\PlantCare02-main\PlantCare02-main\WebAppl
 C:\Users\paula girgis\OneDrive\Desktop\PlantCare02-main\PlantCare02-main\WebApplication1.Solution\WebApplication1.Core\obj\Debug\net8.0\refint\WebApplication1.Core.dll
 C:\Users\paula girgis\OneDrive\Desktop\PlantCare02-main\PlantCare02-main\WebApplication1.Solution\WebApplication1.Core\obj\Debug\net8.0\WebApplication1.Core.pdb
 C:\Users\paula girgis\OneDrive\Desktop\PlantCare02-main\PlantCare02-main\WebApplication1.Solution\WebApplication1.Core\obj\Debug\net8.0\ref\WebApplication1.Core.dll
+D:\WebApplication1.Solution\WebApplication1.Core\bin\Debug\net8.0\WebApplication1.Core.deps.json
+D:\WebApplication1.Solution\WebApplication1.Core\bin\Debug\net8.0\WebApplication1.Core.dll
+D:\WebApplication1.Solution\WebApplication1.Core\bin\Debug\net8.0\WebApplication1.Core.pdb
+D:\WebApplication1.Solution\WebApplication1.Core\obj\Debug\net8.0\WebApplication1.Core.csproj.AssemblyReference.cache
+D:\WebApplication1.Solution\WebApplication1.Core\obj\Debug\net8.0\WebApplication1.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebApplication1.Solution\WebApplication1.Core\obj\Debug\net8.0\WebApplication1.Core.AssemblyInfoInputs.cache
+D:\WebApplication1.Solution\WebApplication1.Core\obj\Debug\net8.0\WebApplication1.Core.AssemblyInfo.cs
+D:\WebApplication1.Solution\WebApplication1.Core\obj\Debug\net8.0\WebApplication1.Core.csproj.CoreCompileInputs.cache
+D:\WebApplication1.Solution\WebApplication1.Core\obj\Debug\net8.0\WebApplication1.Core.sourcelink.json
+D:\WebApplication1.Solution\WebApplication1.Core\obj\Debug\net8.0\WebApplication1.Core.dll
+D:\WebApplication1.Solution\WebApplication1.Core\obj\Debug\net8.0\refint\WebApplication1.Core.dll
+D:\WebApplication1.Solution\WebApplication1.Core\obj\Debug\net8.0\WebApplication1.Core.pdb
+D:\WebApplication1.Solution\WebApplication1.Core\obj\Debug\net8.0\ref\WebApplication1.Core.dll
